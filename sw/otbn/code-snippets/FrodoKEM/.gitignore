@@ -1,0 +1,9 @@
+# ignore automatically generated folders
+tmp-out/*
+data-auto/*
+# ignore automatically generated file
+tests/test_target_op.s
+tests/test_KeyGen.s
+tests/test_Encaps.s
+tests/test_Decaps.s
+
